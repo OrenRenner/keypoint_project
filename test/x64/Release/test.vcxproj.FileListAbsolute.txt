@@ -1,0 +1,4 @@
+C:\skeleton\keypoint_project\x64\Release\onnxruntime.dll
+C:\skeleton\keypoint_project\x64\Release\onnxruntime_providers_shared.dll
+C:\skeleton\keypoint_project\x64\Release\onnxruntime_providers_cuda.dll
+C:\skeleton\keypoint_project\x64\Release\onnxruntime_providers_tensorrt.dll

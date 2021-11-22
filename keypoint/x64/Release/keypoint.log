@@ -1,0 +1,54 @@
+﻿  keypoint_rcnn.cpp
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(79,53): warning C4244: аргумент: преобразование "_Ty" в "_Tp", возможна потеря данных
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(79,30): warning C4244: аргумент: преобразование "_Ty" в "_Tp", возможна потеря данных
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(111,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(112,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(118,23): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(120,23): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\numeric(35,26): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(7): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,int,std::multiplies<T>>(const _InIt,const _InIt,_Ty,_Fn)"
+          with
+          [
+              _Ty=int,
+              T=int64_t,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<int64_t>>>,
+              _Fn=std::multiplies<int64_t>
+          ]
+C:\skeleton\keypoint_project\keypoint\src\keypoint_rcnn.cpp(87): message : выполняется компиляция ссылки на экземпляр шаблон функции "T vectorProduct<int64_t>(const std::vector<int64_t,std::allocator<int64_t>> &)"
+          with
+          [
+              T=int64_t
+          ]
+  keypoint.vcxproj -> C:\skeleton\keypoint_project\x64\Release\keypoint.lib
